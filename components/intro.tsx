@@ -33,7 +33,7 @@ export default function Intro() {
             <span className = "italic">my name is Alimurat. </span>I am currently a second-year student at {" "}
             <span className = "font-bold">Concordia University </span>
             pursuing my {" "}
-            <span className = "font-bold italic">Bachelor's Degree of Software Engineering. </span> 
+            <span className = "font-bold italic">Bachelor&apos;s Degree of Software Engineering. </span> 
             I am a chill guy who loves adventures and {" "} 
             <span className ="underline">healthy</span> snacks.
         </motion.p>
