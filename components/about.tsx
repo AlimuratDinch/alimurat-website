@@ -16,7 +16,7 @@ export default function About() {
     <SectionHeading>About Me</SectionHeading>
      <p>
      I was always curious about discovering the new features in life. I first started coding in Python when I was in Marianopolis College.
-          When I first wrote my "Hello World" program, I felt the power in my hands such that I can code everything.
+          When I first wrote my &quot;Hello World&quot; program, I felt the power in my hands such that I can code everything.
      </p>
 
      <p>
