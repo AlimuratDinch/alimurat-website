@@ -31,7 +31,7 @@ export const links = [ //array of objects
 
 export const projectsData = [
   {
-    title: "Cat and Dog Adaptation Website",
+    title: "Cat and Dog Adoptation Website",
     description:
       "It was my first real website that i made using JavaScript and PHP. After this experience, i wanted to learn about coding even more.",
     tags: ["HTML","CSS","JavaScript","PHP"],
