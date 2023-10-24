@@ -22,7 +22,7 @@ export default function About() {
      <p>
      Initially, I started my academic journey in Health Science at Marianopolis College. 
      However, I discovered my true affinity for mathematics, which led me to shift gears and pursue software engineering at Concordia University and do the 
-     things that i enjoy the most which is spending hours to fix that little bug in the code with a cup of coffee. 
+     things that I enjoy the most which is spending hours to fix that little bug in the code with a cup of coffee. 
      </p>
   </motion.section>
   )
