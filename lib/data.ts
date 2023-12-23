@@ -5,6 +5,7 @@ import { FaReact } from "react-icons/fa";
 import petweb from "@/public/petweb.png";
 import binaryReading from "@/public/binaryReading.png";
 import reversi from "@/public/reversi.png";
+import house from "@/public/house.png";
 
 
 export const links = [ //array of objects
@@ -31,11 +32,11 @@ export const links = [ //array of objects
 
 export const projectsData = [
   {
-    title: "Cat and Dog Adoptation Website",
+    title: "Real Estate Website",
     description:
-      "It was my first real website that i made using JavaScript and PHP. After this experience, i wanted to learn about coding even more.",
-    tags: ["HTML","CSS","JavaScript","PHP"],
-    imageUrl: petweb,
+      "Real Estate website made with MERN stack. Employed CRUD operations via REST API, facilitating efficient data management and interaction with server system",
+    tags: ["HTML","CSS","JavaScript","ReactJS","NodeJS","MongoDB"],
+    imageUrl: house,
   },
   {
     title: "Binary Reading",
