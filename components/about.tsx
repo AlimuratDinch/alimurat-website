@@ -18,7 +18,7 @@ export default function About() {
      I was always curious about discovering the new features in life. I first started coding in Python when I was in Marianopolis College.
           When I first wrote my &quot;Hello World&quot; program, I felt the power in my hands such that I can code everything.
      </p>
-
+     <br/>
      <p>
      Initially, I started my academic journey in Health Science at Marianopolis College. 
      However, I discovered my true affinity for mathematics, which led me to shift gears and pursue software engineering at Concordia University and do the 

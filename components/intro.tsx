@@ -30,7 +30,7 @@ export default function Intro() {
         initial = {{ opacity:0, y:100}}
         animate = {{ opacity:1, y:0}}>
             <span className = "font-bold">Hello, </span> 
-            <span className = "italic">my name is Alimurat. </span>I am currently a third-year student at {" "}
+            <span className = "italic">my name is Alimurat. </span>I am currently a fourth-year student at {" "}
             <span className = "font-bold">Concordia University </span>
             pursuing my {" "}
             <span className = "font-bold italic">Bachelor&apos;s Degree of Software Engineering. </span> 
