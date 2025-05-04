@@ -23,7 +23,6 @@ export default function Experience() {
       image: "/commisionScolaire.png",
       description: [
         "Worked on projects aimed at improving student success through data-driven strategies, personalized learning approaches and collaboration with educational professionals.",
-        "Configured Airbyte connections to extract data from diverse sources and load the data into Snowflake for data warehousing and AWS Redshift for analytics.",
         "Managed and configured a DBT project prescribed by Quebec Government to remove redundancies in the data warehouse by creating structured tables and transformed datasets.",
         "Established and configured data connections to Power BI that facilitates report visualization and provides actionable insights for analytical purposes.",
         "Automated dockerized ETL pipelines using Airflow and GitHub Actions to extract the DBT project to integrate the transformed data into Microsoft Azure DevOps repository and load it into a server to create continuous integration and continuous development environment.",
